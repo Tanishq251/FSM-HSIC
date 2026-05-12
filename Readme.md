@@ -1,4 +1,4 @@
-# FSM: Learnable Fuzzy Spectral Mamba for Uncertainty-Aware Hyperspectral Image Classification
+# [FSM: Learnable Fuzzy Spectral Mamba for Uncertainty-Aware Hyperspectral Image Classification](https://doi.org/10.1109/LGRS.2026.3687386)
 
 [![IEEE GRSL](https://img.shields.io/badge/IEEE%20GRSL-2026-blue)](https://doi.org/10.1109/LGRS.2026.3687386)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)](https://www.python.org/)
